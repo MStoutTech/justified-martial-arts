@@ -4,7 +4,7 @@
 # Justified Martial Arts
 Static website for a martial arts dojo
 
-<!--**Link to project:** https://mstouttech.github.io/pacific-pulse/index-->
+**Link to project:** https://mstouttech.github.io/justified-martial-arts/index
 
 ![dojo-site-demo-v1](https://github.com/user-attachments/assets/e02304ee-62c4-466c-a9bf-1bfe2428ab47)
 
